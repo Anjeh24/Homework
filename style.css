@@ -56,7 +56,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("C:\Users\anjeh\OneDrive\Desktop\Bootcamp work\01-HTML-Git-CSS\02-Homework\Develop\assets\images\digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
